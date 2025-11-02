@@ -23,7 +23,7 @@ repository               : "muxin-zhou/muxin-zhou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   name             : "Muxin Zhou"
   pronouns         : "she/her"  
   bio              : "PhD student in Robotic at MBZUAI"
