@@ -41,8 +41,8 @@ A self-supervised dataset distillation framework focused on compact yet informat
 ---
 
 ## 🧾 Reviews {#reviews}
-
-- Reviewer, *IEEE Robotics and Automation Letters (RA-L)*, 2025
+- IEEE International Conference on Robotics and Automation (ICRA), 2026
+- IEEE Robotics and Automation Letters (RA-L), 2025
 
 ---
 
